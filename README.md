@@ -4,7 +4,7 @@ An advanced, fully responsive and animated **Task Manager Web App** built using 
 Features include task adding, deleting, completion tracking with animation, drag-and-drop reordering, confetti animation, and deadline reminders.
 
 ## 🚀 Live Demo
-👉 [Click here to open the live app](https://github.com/Alfiya-Mapari06/task-manager-app)
+👉 [Click here to open the live app]( https://alfiya-mapari06.github.io/task-manager-app/)
 
 ## 📌 Features
 - ✅ Add, complete, and delete tasks
